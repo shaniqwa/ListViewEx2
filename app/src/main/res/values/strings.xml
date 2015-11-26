@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListViewEx2</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_task">Add Task</string>
+    <string name="new_title">Enter title</string>
+    <string name="title_activity_display_message">Add a New Task</string>
+    <color name="green">#22a8ab</color>
+    <color name="gray">#4D4D4D</color>
+
+</resources>
